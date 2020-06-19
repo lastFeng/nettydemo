@@ -13,9 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.learn.demo.client;
+package com.learn.demo.echo.client;
 
-import com.learn.demo.handler.EchoClientHandler;
+import com.learn.demo.echo.handler.EchoClientHandler;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;
